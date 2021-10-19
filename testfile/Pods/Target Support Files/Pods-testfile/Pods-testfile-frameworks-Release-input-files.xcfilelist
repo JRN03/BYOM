@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-testfile/Pods-testfile-frameworks.sh
+${BUILT_PRODUCTS_DIR}/PINCache/PINCache.framework
+${BUILT_PRODUCTS_DIR}/PINOperation/PINOperation.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SnapSDK/SCSDKBitmojiKit/SCSDKBitmojiKit.framework/SCSDKBitmojiKit
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SnapSDK/SCSDKCoreKit/SCSDKCoreKit.framework/SCSDKCoreKit
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SnapSDK/SCSDKCreativeKit/SCSDKCreativeKit.framework/SCSDKCreativeKit
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SnapSDK/SCSDKLoginKit/SCSDKLoginKit.framework/SCSDKLoginKit
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SnapSDK/SCSDKStoryKit/SCSDKStoryKit.framework/SCSDKStoryKit
