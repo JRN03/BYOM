@@ -19,6 +19,8 @@
 
 /* Begin PBXFileReference section */
 		394FD9C42128915F21667C44 /* Pods_testfile.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_testfile.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6006C235271FE6B60086C546 /* SCSDKCoreKit.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = SCSDKCoreKit.xcframework; path = Pods/SnapSDK/SCSDKCoreKit.xcframework; sourceTree = "<group>"; };
+		6006C239271FE6BC0086C546 /* SCSDKLoginKit.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = SCSDKLoginKit.xcframework; path = Pods/SnapSDK/SCSDKLoginKit.xcframework; sourceTree = "<group>"; };
 		60AA1404271E605E002209AD /* testfile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testfile.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60AA1407271E605E002209AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		60AA1409271E605E002209AD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -47,6 +49,8 @@
 		29BF9B6B647A7A780AB75D36 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				6006C239271FE6BC0086C546 /* SCSDKLoginKit.xcframework */,
+				6006C235271FE6B60086C546 /* SCSDKCoreKit.xcframework */,
 				394FD9C42128915F21667C44 /* Pods_testfile.framework */,
 			);
 			name = Frameworks;
@@ -91,7 +95,6 @@
 				A8AA72449CEFA2D28B47534F /* Pods-testfile.debug.xcconfig */,
 				EB40D11C092D51F5C6B75B31 /* Pods-testfile.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};

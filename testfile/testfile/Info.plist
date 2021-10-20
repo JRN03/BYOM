@@ -2,6 +2,25 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CFBundleURLSchemes</key>
+	<array>
+		<string>Yolo-Hackathon</string>
+	</array>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>snapchat</string>
+		<string>bitmoji-sdk</string>
+		<string>itms-apps</string>
+	</array>
+	<key>SCSDKClientId</key>
+	<string>46f8ab06-3487-489e-852d-b028d28e89c1</string>
+	<key>SCSDKRedirectUrl</key>
+	<string>Yolo-Hackathon://snapchat</string>
+	<key>SCSDKScopes</key>
+	<array>
+		<string>https://auth.snapchat.com/oauth2/api/user.display_name</string>
+		<string>https://auth.snapchat.com/oauth2/api/user.bitmoji.avatar</string>
+	</array>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
